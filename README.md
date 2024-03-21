@@ -1,4 +1,4 @@
-# SPACE STYLE DRAGON SCENE ANIMATION
+# SPACE STYLE DRAGON SCENE ANIMATION 
 
 A WebGL-based Chinese dragon animation with STL loader and GLSL shader imposed via Three.js. 
 
